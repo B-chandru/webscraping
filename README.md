@@ -7,7 +7,7 @@ Clone the project
 
 ```bash
 
-  git clone
+  git clone https://github.com/B-chandru/webscraping.git
 
 ```
 
